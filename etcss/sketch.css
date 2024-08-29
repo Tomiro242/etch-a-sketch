@@ -1,0 +1,25 @@
+* { box-sizing: border-box;}
+
+
+.container { height: 900px;
+             width: 900px;
+             border: 1px , solid, black;
+             display: flex;
+             justify-content: space-between;
+             align-items: stretch;
+             flex-wrap: wrap;
+             
+
+}
+
+.cake { height: 55px;
+        width: 55px;
+        border: 1px, solid, black;
+
+}
+
+.pony {
+    background-color: black;
+}
+
+.clown {background-color: white;}
